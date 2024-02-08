@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BeatStreet/static/css/main.f71f333f.css",
+    "main.js": "/BeatStreet/static/js/main.b35ad535.js",
+    "static/js/787.9b76bdbb.chunk.js": "/BeatStreet/static/js/787.9b76bdbb.chunk.js",
+    "static/media/my_lg.png": "/BeatStreet/static/media/my_lg.5cd8718414a2b7363a0d.png",
+    "index.html": "/BeatStreet/index.html",
+    "main.f71f333f.css.map": "/BeatStreet/static/css/main.f71f333f.css.map",
+    "main.b35ad535.js.map": "/BeatStreet/static/js/main.b35ad535.js.map",
+    "787.9b76bdbb.chunk.js.map": "/BeatStreet/static/js/787.9b76bdbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71f333f.css",
+    "static/js/main.b35ad535.js"
+  ]
+}
